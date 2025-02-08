@@ -74,22 +74,29 @@ GPA: 4.2 / 4.5
 - English: New TEPS 291 / 600 (3+, Mid Intermediate Level of Communicative Competence) (Jun. 2024)  
 </br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abc3279&layout=compact&theme=dracula)  
-<img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white" alt="C">
-<img src="https://img.shields.io/badge/-C++-00599C.svg?&style=flat-square&logo=cplusplus&logoColor=white" alt="cplusplus">
-<img src="https://img.shields.io/badge/C%23-007ACC.svg?&style=flat-square&logo=cplusplus&logoColor=white" alt="C#">
-<img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=flat-square&logo=kotlin&logoColor=white" alt="kotlin">  
-<img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=mysql&logoColor=white" alt="mysql">
-<img src="https://img.shields.io/badge/Firebase-DD2C00.svg?&style=flat-square&logo=firebase&logoColor=white" alt="firebase">  
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" alt="Visual Studio Code">
-<img src="https://img.shields.io/badge/Unity-F8F8F8.svg?&style=flat-square&logo=Unity&logoColor=black" alt="Unity">
-<img src="https://img.shields.io/badge/Arduino-00878F.svg?&style=flat-square&logo=arduino&logoColor=white" alt="Arduino">
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=flat-square&logo=Android%20Studio&logoColor=white" alt="Android Studio">  
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
-<img src="https://img.shields.io/badge/NumPy-013243.svg?&style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
-<img src="https://img.shields.io/badge/Pandas-150458.svg?&style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-<img src="https://img.shields.io/badge/Matplotlib-0077B6.svg?&style=flat-square&logo=Matplotlib&logoColor=white" alt="Matplotlib">
+<div align="center">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abc3279&layout=compact&theme=dracula&langs_count=8" height=100px width=380px/>
+  
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/-C++-00599C.svg?&style=flat-square&logo=cplusplus&logoColor=white" alt="cplusplus">
+  <img src="https://img.shields.io/badge/C%23-007ACC.svg?&style=flat-square&logo=cplusplus&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=flat-square&logo=kotlin&logoColor=white" alt="kotlin">  
+
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=mysql&logoColor=white" alt="mysql">
+  <img src="https://img.shields.io/badge/Firebase-DD2C00.svg?&style=flat-square&logo=firebase&logoColor=white" alt="firebase">  
+
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" alt="Visual Studio Code">
+  <img src="https://img.shields.io/badge/Unity-F8F8F8.svg?&style=flat-square&logo=Unity&logoColor=black" alt="Unity">
+  <img src="https://img.shields.io/badge/Arduino-00878F.svg?&style=flat-square&logo=arduino&logoColor=white" alt="Arduino">
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=flat-square&logo=Android%20Studio&logoColor=white" alt="Android Studio">  
+
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/NumPy-013243.svg?&style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Pandas-150458.svg?&style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Matplotlib-0077B6.svg?&style=flat-square&logo=Matplotlib&logoColor=white" alt="Matplotlib">
+</div>
+
 </br>
 
 # Certifications
