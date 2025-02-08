@@ -9,7 +9,6 @@
 </div>
 
 # Educations
-------------
 Hanyang University ERICA, Ansan, Korea  (Mar. 2023 ~ Present)
 - Major in Media Technology
 - Major in Computer Science
@@ -19,7 +18,6 @@ _Bachelor Student_
 GPA: 4.2 / 4.5
 
 # Research Interests
--------------
 - Human-Computer Interaction
 - Financial Engineering
   - AI in Finance
@@ -31,7 +29,6 @@ GPA: 4.2 / 4.5
   - Personal Financial Management Services 
  
 # Personal Projects
--------------------------------------------------------------------------------
 - COVID-19 Projects
   - Computer Vision
     - [[CV] Masked Face Classification Model (AlexNet) (Sep. 2023)](https://velog.io/@abc3279/%EB%A7%88%EC%8A%A4%ED%81%AC-%EC%96%BC%EA%B5%B4-%EB%B6%84%EB%A5%98-%EB%AA%A8%EB%8D%B8-AlexNet)
@@ -64,7 +61,6 @@ GPA: 4.2 / 4.5
   
   
 # Honors and Awards
------------------------
 - Encouragement Award (4th place / 83 teams), 2024 National University Students SW Startup Ideathon (Nov. 2024)
 - Encouragement Award (3rd place / 30 teams), English Speech Contest  (Dec. 2021)
 - 1st Prize (1st place / 23 teams), Sangsang Craft Competition (Software Division), (Oct. 2018)  
@@ -74,10 +70,8 @@ GPA: 4.2 / 4.5
 - Admission Excellence Scholarship (Spring. 2023)
 
 # Skills and Techniques
--------------------------------------------------------------------------------
 - Korean: Native
 - English: New TEPS 291 / 600 (3+, Mid Intermediate Level of Communicative Competence) (Jun. 2024)  
-f
 </br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abc3279&layout=compact&theme=dracula)  
@@ -99,7 +93,6 @@ f
 </br>
 
 # Certifications
--------------------------------------------------------------------------------
 | Certification | Organization | Date |
 | :--: | :--: | :--: |
 | [Craftsman Information Processing](https://velog.io/@abc3279/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EB%8A%A5%EC%82%AC-%ED%9B%84%EA%B8%B0) | HRD Korea | Apr. 2024 |
@@ -108,8 +101,8 @@ f
 | DIAT - Word Processor Advnaced | KAIT | Mar. 2017 |
 | DIAT - Spreadsheet Advnaced | KAIT | Sep. 2016 |
 | Hap Ki Do 3rd Dan | The Korea Ki Do Association | Jan. 2016 |
+
 # Additional Information
--------------------------------------------------------------------------------
 - [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=abc3279)](https://solved.ac/abc3279)
 
 </bn>
