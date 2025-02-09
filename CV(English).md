@@ -1,3 +1,5 @@
+<div align = "right"> Public CV (Detailed) </div>
+
 <div align='center'>
 
   # DooHyun Kim  
@@ -6,6 +8,8 @@
   55, Hanyangdaehak-ro, Sangnok-gu, Ansan-si, Gyeonggi-do, Republic of Korea  
   abc3279@hanyang.ac.kr  
   +82) 010-5217-3279  
+  <a href = "https://github.com/abc3279"> <img src="https://img.shields.io/badge/Github-181717.svg?&style=flat-square&logo=Github&logoColor=white" alt="Github"> </a>
+  <a href = "https://velog.io/@abc3279/about"> <img src="https://img.shields.io/badge/-Blog-20C997.svg?&style=flat-square&logo=Velog&logoColor=white" alt="Velog"> </a> 
 </div>
 
 # Educations
@@ -48,7 +52,7 @@ GPA: 4.2 / 4.5
   - Game(Contest)
     - [[대회] 2021 Ulsan AI · SW Hackathon (Oct. 2021)](https://velog.io/@abc3279/2021-%EC%9A%B8%EC%82%B0-AI-SW-%ED%95%B4%EC%BB%A4%ED%86%A4) 
   - Embedded System
-    - [[ES] Production of Potato SmartFarm (Jun. 2021)](https://velog.io/@abc3279/%EA%B0%90%EC%9E%90-%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%9C)
+    - [[ES] Production of Potato SmartFarm (Jun. 2021)](https://velog.io/@abc3279/ES-%EA%B0%90%EC%9E%90-%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%9C-%EC%A0%9C%EC%9E%91)
     - [[ES] Production of Air Purifier (May. 2021)](https://velog.io/@abc3279/%EA%B3%B5%EA%B8%B0%EC%B2%AD%EC%A0%95%EA%B8%B0-%EC%A0%9C%EC%9E%91)
 
 
@@ -61,19 +65,17 @@ GPA: 4.2 / 4.5
   
   
 # Honors and Awards
-- Encouragement Award (4th place / 83 teams), 2024 National University Students SW Startup Ideathon (Nov. 2024)
-- Encouragement Award (3rd place / 30 teams), English Speech Contest  (Dec. 2021)
-- 1st Prize (1st place / 23 teams), Sangsang Craft Competition (Software Division), (Oct. 2018)  
+| Awards | Grade | Date | Organization |
+| :--: | :--: | :--: | :--: |
+| 2024 National University Students SW Startup Ideathon  | Encouragement Award (4th place / 83 teams) | Nov. 2024 | Hanyang University ERICA Center For Software Oriented Society |
+| Academic Excellence Scholarship | - | Fall. 2023 | Hanyang University |
+| Admission Excellence Scholarship | Full Tuition Scholarship | Spring. 2023 | Hanyang University |
+| English Speech Contest | Encouragement Award (3rd place / 30 teams) | Dec. 2021 | Maegok High School |
+| Sangsang Craft Competition (Software Division) | 1st Prize (1st place / 23 teams) | Oct. 2018 | Maegok Middle School |
 
 </br>
-
-- Admission Excellence Scholarship (Spring. 2023)
 
 # Skills and Techniques
-- Korean: Native
-- English: New TEPS 291 / 600 (3+, Mid Intermediate Level of Communicative Competence) (Jun. 2024)  
-</br>
-
 <div align="center">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abc3279&layout=compact&theme=dracula&langs_count=8" height=100px />
   
@@ -106,6 +108,7 @@ GPA: 4.2 / 4.5
 # Certifications
 | Certification | Organization | Date |
 | :--: | :--: | :--: |
+| New TEPS 291 / 600 | The TEPS Council | Jun. 2024 |
 | [Craftsman Information Processing](https://velog.io/@abc3279/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EB%8A%A5%EC%82%AC-%ED%9B%84%EA%B8%B0) | HRD Korea | Apr. 2024 |
 | Driver's License 2nd Class Ordinary | Gyeongbuk Provincial Police | Jan. 2024 |
 | DIAT - Presentation Advnaced | KAIT | May. 2017 |
