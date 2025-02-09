@@ -75,7 +75,7 @@ GPA: 4.2 / 4.5
 </br>
 
 <div align="center">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abc3279&layout=compact&theme=dracula&langs_count=8" height=100px width=380px/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abc3279&layout=compact&theme=dracula&langs_count=8" height=100px />
   
   <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white" alt="C">

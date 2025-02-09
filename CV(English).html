@@ -1,0 +1,564 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>CV(English).md</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+<style>
+/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+body {
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 14px);
+	padding: 0 26px;
+	line-height: var(--vscode-markdown-line-height, 22px);
+	word-wrap: break-word;
+}
+
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
+
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
+
+body.showEditorSelection .code-line {
+	position: relative;
+}
+
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
+
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
+
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-light.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 1em;
+	line-height: 1.357em;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
+	tab-size: 4;
+}
+
+/** Theming */
+
+.vscode-light pre {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
+</style>
+
+<style>
+/* Tomorrow Theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+
+/* Tomorrow Comment */
+.hljs-comment,
+.hljs-quote {
+	color: #8e908c;
+}
+
+/* Tomorrow Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+	color: #c82829;
+}
+
+/* Tomorrow Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+	color: #f5871f;
+}
+
+/* Tomorrow Yellow */
+.hljs-attribute {
+	color: #eab700;
+}
+
+/* Tomorrow Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+	color: #718c00;
+}
+
+/* Tomorrow Blue */
+.hljs-title,
+.hljs-section {
+	color: #4271ae;
+}
+
+/* Tomorrow Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+	color: #8959a8;
+}
+
+.hljs {
+	display: block;
+	overflow-x: auto;
+	color: #4d4d4c;
+	padding: 0.5em;
+}
+
+.hljs-emphasis {
+	font-style: italic;
+}
+
+.hljs-strong {
+	font-weight: bold;
+}
+</style>
+
+<style>
+/*
+ * Markdown PDF CSS
+ */
+
+ body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #C9AE75; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+</style>
+
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
+          ? 'dark'
+          : 'default'
+    });
+  </script>
+<div align='center'>
+<h1 id="doohyun-kim">DooHyun Kim</h1>
+<p>Bachelor Student<br>
+Hanyang University ERICA<br>
+55, Hanyangdaehak-ro, Sangnok-gu, Ansan-si, Gyeonggi-do, Republic of Korea<br>
+abc3279@hanyang.ac.kr<br>
++82) 010-5217-3279</p>
+</div>
+<h1 id="educations">Educations</h1>
+<p>Hanyang University ERICA, Ansan, Korea  (Mar. 2023 ~ Present)</p>
+<ul>
+<li>Major in Media Technology</li>
+<li>Major in Computer Science</li>
+<li>Minor in Acturial Science</li>
+</ul>
+<p><em>Bachelor Student</em><br>
+GPA: 4.2 / 4.5</p>
+<h1 id="research-interests">Research Interests</h1>
+<ul>
+<li>Human-Computer Interaction</li>
+<li>Financial Engineering
+<ul>
+<li>AI in Finance</li>
+<li>Financial Market Analysis and Forecasting</li>
+<li>Risk Management</li>
+<li>Financial Data Analysis</li>
+</ul>
+</li>
+<li>Fintech / Insurtech
+<ul>
+<li>Financial / Insurance Product Recommendation Services</li>
+<li>Personal Financial Management Services</li>
+</ul>
+</li>
+</ul>
+<h1 id="personal-projects">Personal Projects</h1>
+<ul>
+<li>
+<p>COVID-19 Projects</p>
+<ul>
+<li>Computer Vision
+<ul>
+<li><a href="https://velog.io/@abc3279/%EB%A7%88%EC%8A%A4%ED%81%AC-%EC%96%BC%EA%B5%B4-%EB%B6%84%EB%A5%98-%EB%AA%A8%EB%8D%B8-AlexNet">[CV] Masked Face Classification Model (AlexNet) (Sep. 2023)</a></li>
+<li><a href="https://velog.io/@abc3279/%EC%86%90%EA%B8%80%EC%94%A8-%EB%B6%84%EB%A5%98-%EB%AA%A8%EB%8D%B8-LeNet-5">[CV] Handwritten numeric classification model (LeNet-5) (Sep. 2023)</a></li>
+<li><a href="https://velog.io/@abc3279/CV-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%A7%88%EC%8A%A4%ED%81%AC-%EC%96%BC%EA%B5%B4-%EB%B6%84%EB%A5%98-%EC%97%B4%ED%99%94%EC%83%81">[CV] Real-time Masked Face Classification using AlexNet Model with OpenCV (Mar. 2022)</a></li>
+</ul>
+</li>
+<li>Deep Learning
+<ul>
+<li><a href="https://velog.io/@abc3279/%EC%BD%94%EB%A1%9C%EB%82%9819-%ED%99%95%EC%A7%84%EC%9E%90%EC%88%98-%EC%98%88%EC%B8%A1-LSTM">[DL] Forecasting the daily number of confirmed COVID-19 cases using LSTM (Aug. 2021)</a></li>
+</ul>
+</li>
+<li>Embedded System
+<ul>
+<li><a href="https://velog.io/@abc3279/%EB%B9%84%EC%A0%91%EC%B4%89%EC%8B%9D-%EC%B2%B4%EC%98%A8%EA%B3%84-%EC%A0%9C%EC%9E%91">[ES] Production of Non-Contact Thermometer (May. 2021)</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Soical Issues Projects</p>
+<ul>
+<li>Natural Language Processing
+<ul>
+<li><a href="https://velog.io/@abc3279/NLP-%ED%8E%AB%EB%A1%9C%EC%8A%A4-%EC%8B%AC%EB%A6%AC%EC%83%81%EB%8B%B4-%EC%B1%97%EB%B4%87">[NLP] Pet Loss Syndrome Psychological Counseling Chatbot (Nov. 2024)</a></li>
+</ul>
+</li>
+<li>Data Science
+<ul>
+<li><a href="https://velog.io/@abc3279/%EC%A7%80%ED%95%98%EC%B2%A0">[DS] Subway congestion at Hanyang University at Ansan Station by time zone (Dec. 2023)</a></li>
+</ul>
+</li>
+<li>Game(Contest)
+<ul>
+<li><a href="https://velog.io/@abc3279/2021-%EC%9A%B8%EC%82%B0-AI-SW-%ED%95%B4%EC%BB%A4%ED%86%A4">[대회] 2021 Ulsan AI · SW Hackathon (Oct. 2021)</a></li>
+</ul>
+</li>
+<li>Embedded System
+<ul>
+<li><a href="https://velog.io/@abc3279/%EA%B0%90%EC%9E%90-%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%9C">[ES] Production of Potato SmartFarm (Jun. 2021)</a></li>
+<li><a href="https://velog.io/@abc3279/%EA%B3%B5%EA%B8%B0%EC%B2%AD%EC%A0%95%EA%B8%B0-%EC%A0%9C%EC%9E%91">[ES] Production of Air Purifier (May. 2021)</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Other Projects</p>
+<ul>
+<li>Demonstration
+<ul>
+<li><a href="https://velog.io/@abc3279/%EB%AA%AC%ED%8B%B0-%ED%99%80-%EB%AC%B8%EC%A0%9C%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%A0%81-%EC%A6%9D%EB%AA%85">[CS] Programmatic Demonstration of the Monty Hall problem (Jul. 2022)</a></li>
+</ul>
+</li>
+<li>Game
+<ul>
+<li><a href="https://velog.io/@abc3279/PAC-MAN">[Game] PAC-MAN implemented in C++ language (Sep. 2020)</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h1 id="honors-and-awards">Honors and Awards</h1>
+<ul>
+<li>Encouragement Award (4th place / 83 teams), 2024 National University Students SW Startup Ideathon (Nov. 2024)</li>
+<li>Encouragement Award (3rd place / 30 teams), English Speech Contest  (Dec. 2021)</li>
+<li>1st Prize (1st place / 23 teams), Sangsang Craft Competition (Software Division), (Oct. 2018)</li>
+</ul>
+</br>
+<ul>
+<li>Admission Excellence Scholarship (Spring. 2023)</li>
+</ul>
+<h1 id="skills-and-techniques">Skills and Techniques</h1>
+<ul>
+<li>Korean: Native</li>
+<li>English: New TEPS 291 / 600 (3+, Mid Intermediate Level of Communicative Competence) (Jun. 2024)<br>
+</br></li>
+</ul>
+<div align="center">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abc3279&layout=compact&theme=dracula&langs_count=8" height=100px />
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/-C++-00599C.svg?&style=flat-square&logo=cplusplus&logoColor=white" alt="cplusplus">
+  <img src="https://img.shields.io/badge/C%23-007ACC.svg?&style=flat-square&logo=cplusplus&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=flat-square&logo=kotlin&logoColor=white" alt="kotlin">  
+  </br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=mysql&logoColor=white" alt="mysql">
+  <img src="https://img.shields.io/badge/Firebase-DD2C00.svg?&style=flat-square&logo=firebase&logoColor=white" alt="firebase">  
+  </br>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" alt="Visual Studio Code">
+  <img src="https://img.shields.io/badge/Unity-F8F8F8.svg?&style=flat-square&logo=Unity&logoColor=black" alt="Unity">
+  <img src="https://img.shields.io/badge/Arduino-00878F.svg?&style=flat-square&logo=arduino&logoColor=white" alt="Arduino">
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=flat-square&logo=Android%20Studio&logoColor=white" alt="Android Studio">  
+  </br>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/NumPy-013243.svg?&style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Pandas-150458.svg?&style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Matplotlib-0077B6.svg?&style=flat-square&logo=Matplotlib&logoColor=white" alt="Matplotlib">
+  </br>
+</div>
+</br>
+<h1 id="certifications">Certifications</h1>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">Certification</th>
+<th style="text-align:center">Organization</th>
+<th style="text-align:center">Date</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center"><a href="https://velog.io/@abc3279/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EB%8A%A5%EC%82%AC-%ED%9B%84%EA%B8%B0">Craftsman Information Processing</a></td>
+<td style="text-align:center">HRD Korea</td>
+<td style="text-align:center">Apr. 2024</td>
+</tr>
+<tr>
+<td style="text-align:center">Driver's License 2nd Class Ordinary</td>
+<td style="text-align:center">Gyeongbuk Provincial Police</td>
+<td style="text-align:center">Jan. 2024</td>
+</tr>
+<tr>
+<td style="text-align:center">DIAT - Presentation Advnaced</td>
+<td style="text-align:center">KAIT</td>
+<td style="text-align:center">May. 2017</td>
+</tr>
+<tr>
+<td style="text-align:center">DIAT - Word Processor Advnaced</td>
+<td style="text-align:center">KAIT</td>
+<td style="text-align:center">Mar. 2017</td>
+</tr>
+<tr>
+<td style="text-align:center">DIAT - Spreadsheet Advnaced</td>
+<td style="text-align:center">KAIT</td>
+<td style="text-align:center">Sep. 2016</td>
+</tr>
+<tr>
+<td style="text-align:center">Hap Ki Do 3rd Dan</td>
+<td style="text-align:center">The Korea Ki Do Association</td>
+<td style="text-align:center">Jan. 2016</td>
+</tr>
+</tbody>
+</table>
+<h1 id="additional-information">Additional Information</h1>
+<ul>
+<li><a href="https://solved.ac/abc3279"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=abc3279" alt="Solved.ac프로필"></a></li>
+</ul>
+</bn>
+<ul>
+<li>Member of HYAI, the Artificial Intelligence Association (Mar. 2024 ~ Present)</li>
+<li>Leader of IT Convergence, the IT Making Club (Mar. 2021 ~ Feb. 2022)</li>
+<li>Leader of Cpp(Cooperate Project Programming), the Programming Club (Mar. 2020 ~ Feb. 2023)</li>
+<li>Member of 3D Design Club (Mar. 2020 ~ Feb. 2021)</li>
+<li>Leader of Macro, the Programming Club (Mar. 2018 ~ Feb. 2020)</li>
+</ul>
+
+</body>
+</html>
