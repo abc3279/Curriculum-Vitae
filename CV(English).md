@@ -1,4 +1,7 @@
-<div align = "right"> Public CV (Detailed) </div>
+<div align = "right"> Public CV (Detailed) </br>
+Updated on 2025.03.26. </br>
+(Updates discontinued)
+</div>
 
 <div align='center'>
 
@@ -47,6 +50,7 @@ GPA: 4.2 / 4.5
 - Soical Issues Projects
   - Natural Language Processing
     - [[NLP] Pet Loss Syndrome Psychological Counseling Chatbot (Nov. 2024)](https://velog.io/@abc3279/NLP-%ED%8E%AB%EB%A1%9C%EC%8A%A4-%EC%8B%AC%EB%A6%AC%EC%83%81%EB%8B%B4-%EC%B1%97%EB%B4%87)
+    - [[NLP] Pet Trainer AI Chatbot (Nov. 2024)](https://velog.io/@abc3279/NLP-%EB%B0%98%EB%A0%A4%EB%8F%99%EB%AC%BC-%ED%9B%88%EB%A0%A8%EC%82%AC-AI-%EC%B1%97%EB%B4%87-%EA%B0%95%ED%98%95%EC%9A%B1-AI-36zr1sj5)
   - Data Science
     - [[DS] Subway congestion at Hanyang University at Ansan Station by time zone (Dec. 2023)](https://velog.io/@abc3279/%EC%A7%80%ED%95%98%EC%B2%A0)
   - Game(Contest)
@@ -59,7 +63,7 @@ GPA: 4.2 / 4.5
 
 - Other Projects
   - Demonstration
-    - [[CS] Programmatic Demonstration of the Monty Hall problem (Jul. 2022)](https://velog.io/@abc3279/%EB%AA%AC%ED%8B%B0-%ED%99%80-%EB%AC%B8%EC%A0%9C%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%A0%81-%EC%A6%9D%EB%AA%85)
+    - [[CS] Computational Demonstration of the Monty Hall problem (Jul. 2022)](https://velog.io/@abc3279/%EB%AA%AC%ED%8B%B0-%ED%99%80-%EB%AC%B8%EC%A0%9C%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%A0%81-%EC%A6%9D%EB%AA%85)
   - Game
     - [[Game] PAC-MAN implemented in C++ language (Sep. 2020)](https://velog.io/@abc3279/PAC-MAN)
   

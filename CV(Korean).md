@@ -1,4 +1,8 @@
-<div align = "right"> Public CV (Detailed) </div>
+<div align = "right"> Public CV (Detailed) </br>
+Updated on 2025.03.28.
+</div>
+
+</br>
 
 <div align='center'>
 
@@ -47,6 +51,7 @@ _학부생_
 
 - 사회문제 프로젝트
   - 자연어 처리
+    - [[NLP] 반려동물 훈련사 AI 챗봇 (강형욱 AI) (Nov.2024)](https://velog.io/@abc3279/NLP-%EB%B0%98%EB%A0%A4%EB%8F%99%EB%AC%BC-%ED%9B%88%EB%A0%A8%EC%82%AC-AI-%EC%B1%97%EB%B4%87-%EA%B0%95%ED%98%95%EC%9A%B1-AI-36zr1sj5)
     - [[NLP] 펫로스 증후군 심리 상담 챗봇 (Nov. 2024)](https://velog.io/@abc3279/NLP-%ED%8E%AB%EB%A1%9C%EC%8A%A4-%EC%8B%AC%EB%A6%AC%EC%83%81%EB%8B%B4-%EC%B1%97%EB%B4%87)
   - 데이터 사이언스
     - [[DS] 한대앞역 시간대별 지하철 혼잡도 (Dec. 2023)](https://velog.io/@abc3279/%EC%A7%80%ED%95%98%EC%B2%A0)
@@ -60,7 +65,7 @@ _학부생_
 
 - 기타 프로젝트
   - 증명
-    - [[CS] 몬티 홀 문제의 프로그래밍을 통한 검증 (Jul. 2022)](https://velog.io/@abc3279/%EB%AA%AC%ED%8B%B0-%ED%99%80-%EB%AC%B8%EC%A0%9C%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%A0%81-%EC%A6%9D%EB%AA%85)
+    - [[CS] 몬티 홀 문제의 검증 (Jul. 2022)](https://velog.io/@abc3279/%EB%AA%AC%ED%8B%B0-%ED%99%80-%EB%AC%B8%EC%A0%9C%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%A0%81-%EC%A6%9D%EB%AA%85)
   - 게임
     - [[Game] PAC-MAN (Sep. 2020)](https://velog.io/@abc3279/PAC-MAN)
   
@@ -79,8 +84,9 @@ _학부생_
 
 
 # 보유 기술
+
 <div align="center">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abc3279&layout=compact&theme=dracula&langs_count=8" height=100px />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abc3279&layout=compact&theme=dracula&hide=ShaderLab,HLSL&cache_seconds=1800" height=100px width=250px />
   <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/-C++-00599C.svg?&style=flat-square&logo=cplusplus&logoColor=white" alt="cplusplus">
@@ -110,6 +116,7 @@ _학부생_
 # 자격증
 | 자격증명 | 주관 기관 | 취득 일자 |
 | :--: | :--: | :--: |
+| 회계관리 2급 | 삼일회계법인 | Mar. 2025
 | New TEPS 291 / 600 | TEPS 관리위원회 | Jun. 2024 |
 | [정보처리기능사](https://velog.io/@abc3279/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EB%8A%A5%EC%82%AC-%ED%9B%84%EA%B8%B0) | 한국산업인력공단 | Apr. 2024 |
 | 자동차운전면허증 2종 보통 | 경상북도경찰청 | Jan. 2024 |
