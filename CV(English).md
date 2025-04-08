@@ -1,3 +1,12 @@
+<style>
+body {
+  font-family: 'Times New Roman', serif;
+  font-size: 14px;
+  line-height: 22px;
+}
+</style>
+
+
 <div align = "right"> Public CV (Detailed) </br>
 Updated on 2025.03.26. </br>
 (Updates discontinued)

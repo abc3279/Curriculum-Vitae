@@ -1,5 +1,21 @@
+<style>
+@font-face {
+  font-family: 'NanumSquareNeo';
+  font-weight: 700;
+  src: url(https://hangeul.pstatic.net/hangeul_static/webfont/NanumSquareNeo/NanumSquareNeoTTF-cBd.woff) format("woff");
+}
+
+body {
+  font-family: 'NanumSquareNeo', 'Times New Roman', serif;
+  font-size: 14px;
+  line-height: 22px;
+  font-weight: 700;
+}
+</style>
+
+
 <div align = "right"> Public CV (Detailed) </br>
-Updated on 2025.03.28.
+Updated on 2025.04.08.
 </div>
 
 </br>
@@ -82,9 +98,9 @@ _학부생_
 </br>
 
 
-
-# 보유 기술
-
+<!-- 페이지 넘어가도 분리되지않게 -->
+<div style="page-break-inside: avoid;"> 
+<h1> 보유 기술 </h1>
 <div align="center">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abc3279&layout=compact&theme=dracula&hide=ShaderLab,HLSL&cache_seconds=1800" height=100px width=250px />
   <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white" alt="Python">
@@ -109,6 +125,7 @@ _학부생_
   <img src="https://img.shields.io/badge/Pandas-150458.svg?&style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/Matplotlib-0077B6.svg?&style=flat-square&logo=Matplotlib&logoColor=white" alt="Matplotlib">
   </br>
+</div>
 </div>
 
 </br>
