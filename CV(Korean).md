@@ -15,7 +15,7 @@ body {
 
 
 <div align = "right"> Public CV (Detailed) </br>
-Updated on 2025.04.08.
+Updated on 2025.05.02.
 </div>
 
 </br>
@@ -133,7 +133,8 @@ _학부생_
 # 자격증
 | 자격증명 | 주관 기관 | 취득 일자 |
 | :--: | :--: | :--: |
-| 회계관리 2급 | 삼일회계법인 | Mar. 2025
+| [투자자산운용사](https://velog.io/@abc3279/%EC%9E%90%EA%B2%A9%EC%A6%9D-%ED%88%AC%EC%9E%90%EC%9E%90%EC%82%B0%EC%9A%B4%EC%9A%A9%EC%82%AC-%ED%95%A9%EA%B2%A9-%EC%88%98%EA%B8%B0) | 한국금융투자협회 | May. 2025 |
+| 회계관리 2급 | 삼일회계법인 | Mar. 2025 |
 | New TEPS 291 / 600 | TEPS 관리위원회 | Jun. 2024 |
 | [정보처리기능사](https://velog.io/@abc3279/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EB%8A%A5%EC%82%AC-%ED%9B%84%EA%B8%B0) | 한국산업인력공단 | Apr. 2024 |
 | 자동차운전면허증 2종 보통 | 경상북도경찰청 | Jan. 2024 |
@@ -147,7 +148,7 @@ _학부생_
 
 </bn>
 
-- HYAI 학회원, 인공지능학회 (Mar. 2024 ~ Present)
+- HYAI 학회원, 인공지능학회 (Mar. 2024 ~ Feb. 2025)
 - IT융합동아리장, IT 메이킹 동아리 (Mar. 2021 ~ Feb. 2022)
 - Cpp(Cooperate Project Programming) 동아리장, 프로그래밍 동아리 (Mar. 2020 ~ Feb. 2023)
 - 3D 디자인 동아리원 (Mar. 2020 ~ Feb. 2021)
