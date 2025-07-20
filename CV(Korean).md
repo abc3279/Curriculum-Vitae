@@ -51,7 +51,7 @@ body {
 
 <div class='page'>
 <div align = "right"> 
-Public CV (Detailed) </br> Updated on 2025.07.09.
+Public CV (Detailed) </br> Updated on 2025.07.21.
 </div>
 
 </br>
@@ -107,7 +107,7 @@ _학부생_
 <div style="page-break-inside: avoid;"> 
 
 # Work Experience
-\-
+- 해군 정보보호병 (Sep. 2025 ~ May. 2027)
 
 </div>
 
