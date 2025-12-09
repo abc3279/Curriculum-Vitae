@@ -51,7 +51,7 @@ body {
 
 <div class='page'>
 <div align = "right"> 
-Public CV (Detailed) </br> Updated on 2025.07.21.
+Public CV (Detailed) </br> Updated on 2025.09.14.
 </div>
 
 </br>
@@ -73,7 +73,7 @@ Public CV (Detailed) </br> Updated on 2025.07.21.
 <div style="page-break-inside: avoid;"> 
 
 # About Me
-'IT + 금융'의 융합으로 사람들의 삶에 지속 가능한 금융 생활이 자리잡을 수 있도록 기여하고자 합니다. 금융공학 연구자로 성장하기 위해 컴퓨터 사이언스, 데이터 사이언스, 인공지능, 금융을 함께 공부하고 있습니다. 투자자산운용사 자격을 취득했으며, KCGI 자산운용에서 주최한 투자 포트폴리오 아이디어 공모전에서 팀장과 계량적 분석 파트를 맡아 수상한 경험이 있습니다. 파생상품을 활용한 포트폴리오 리스크 헤지에 관심을 가지고 있으며, 장기적으로 공적 연금 및 사회보장 기금의 운용 리스크를 계량적으로 분석해 지속 가능한 자산 운용 방안을 제시하는 연구자로 성장하는 것을 목표로 합니다. 
+'IT + 금융'의 융합으로 사람들의 삶에 지속 가능한 금융 생활이 자리잡을 수 있도록 기여하고자 합니다. 금융공학 연구자로 성장하기 위해 컴퓨터 사이언스, 데이터 사이언스, 인공지능, 금융을 함께 공부하고 있습니다. 투자자산운용사 자격을 취득했으며, KCGI 자산운용에서 주최한 투자 포트폴리오 아이디어 공모전에서 팀장과 계량적 분석 파트를 맡아 수상한 경험이 있습니다. 파생상품을 활용한 포트폴리오 리스크 헤지에 관심을 가지고 있으며, 장기적으로 공적 연금 및 사회보장 기금의 시장 리스크를 계량적으로 분석해 지속 가능한 자산 운용 방안을 제시하는 연구자로 성장하는 것을 목표로 합니다. 
 
 </div>
 
@@ -107,7 +107,11 @@ _학부생_
 <div style="page-break-inside: avoid;"> 
 
 # Work Experience
-- 해군 정보보호병 (Sep. 2025 ~ May. 2027)
+### 1. 해군 정보보호병 (Sep. 2025 ~ May. 2027)
+해군사이버작전센터 통합관제상황실
+
+-  
+
 
 </div>
 
@@ -266,7 +270,7 @@ Cpp 동아리 활동 중 C++ 활용 CLI 게임 개발 프로젝트
 <div style="page-break-inside: avoid;"> 
 <h1> Skills and Techniques </h1>
 <div align="center">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abc3279&layout=compact&theme=dracula&hide=ShaderLab,HLSL&cache_seconds=1800" height=110px width=330px />
+  <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abc3279&layout=compact&theme=dracula&hide=ShaderLab,HLSL&cache_seconds=1800" height=110px width=330px /> -->
 
   <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white" alt="C">
@@ -300,8 +304,9 @@ Cpp 동아리 활동 중 C++ 활용 CLI 게임 개발 프로젝트
 # Certifications
 | 자격증명 | 주관 기관 | 취득 일자 |
 | :--: | :--: | :--: |
+| [정보처리산업기사](https://velog.io/@abc3279/%EC%9E%90%EA%B2%A9%EC%A6%9D-%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EC%82%B0%EC%97%85%EA%B8%B0%EC%82%AC-%ED%95%A9%EA%B2%A9-%EC%88%98%EA%B8%B0) | 한국산업인력공단 | Sep. 2025 |
 | [투자자산운용사](https://velog.io/@abc3279/%EC%9E%90%EA%B2%A9%EC%A6%9D-%ED%88%AC%EC%9E%90%EC%9E%90%EC%82%B0%EC%9A%B4%EC%9A%A9%EC%82%AC-%ED%95%A9%EA%B2%A9-%EC%88%98%EA%B8%B0) | 한국금융투자협회 | May. 2025 |
-| 회계관리 2급 | 삼일회계법인 | Mar. 2025 |
+| [회계관리 2급](https://velog.io/@abc3279/%EC%9E%90%EA%B2%A9%EC%A6%9D-%ED%9A%8C%EA%B3%84%EA%B4%80%EB%A6%AC-2%EA%B8%89-%ED%95%A9%EA%B2%A9-%EC%88%98%EA%B8%B0) | 삼일회계법인 | Mar. 2025 |
 | New TEPS 291 / 600 | TEPS 관리위원회 | Jun. 2024 |
 | [정보처리기능사](https://velog.io/@abc3279/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EB%8A%A5%EC%82%AC-%ED%9B%84%EA%B8%B0) | 한국산업인력공단 | Apr. 2024 |
 | 자동차운전면허증 2종 보통 | 경상북도경찰청 | Jan. 2024 |
