@@ -1,4 +1,5 @@
 <style>
+              
 @font-face {
   font-family: 'NanumSquareNeo';
   font-weight: 700;
@@ -49,9 +50,11 @@ body {
 }
 </style>
 
+
+
 <div class='page'>
 <div align = "right"> 
-Public CV (Detailed) </br> Updated on 2025.09.14.
+Public CV (Detailed) </br> Updated on 2026.04.17.
 </div>
 
 </br>
@@ -65,7 +68,7 @@ Public CV (Detailed) </br> Updated on 2025.09.14.
   abc3279@hanyang.ac.kr  
   +82) 010-5217-3279  
   <a href = "https://github.com/abc3279"> <img src="https://img.shields.io/badge/Github-181717.svg?&style=flat-square&logo=Github&logoColor=white" alt="Github"> </a>
-  <a href = "https://velog.io/@abc3279/about"> <img src="https://img.shields.io/badge/-Blog-20C997.svg?&style=flat-square&logo=Velog&logoColor=white" alt="Velog"> </a>
+  <a href = "https://velog.io/@abc3279/posts"> <img src="https://img.shields.io/badge/-Blog-20C997.svg?&style=flat-square&logo=Velog&logoColor=white" alt="Velog"> </a>
   [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=abc3279)](https://solved.ac/abc3279)
 
 </div>
